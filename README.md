@@ -10,7 +10,7 @@ Der ManiaConverter ist ein Tool, um Beatmaps im `.osz`-Format für das Spiel Gro
 
 ## Vorraussetzungen
 
-- Das Spiel GrooveGlide (Converter befindet sich in Projektverzeichnis)
+- Das Spiel [GrooveGlide](https://github.com/Danmyrer/GrooveGlide)
 
 - Das Spiel Osu (Installationsanweisung folgt)
 
@@ -19,6 +19,16 @@ Der ManiaConverter ist ein Tool, um Beatmaps im `.osz`-Format für das Spiel Gro
 - FFMPEG (neuste Version, muss in `$PATH` registriert sein)
 
 ## Einrichtung und Nutzung
+
+### Installation ManiaConverter
+
+Der letzte Release kann [hier](https://github.com/Danmyrer/GrooveGlideManiaConverter/releases/latest) heruntergeladen werden.
+
+Alteranativ kann das Projekt auch selbst kompiliert werden:
+
+```shell
+git clone https://github.com/Danmyrer/GrooveGlideManiaConverter.git
+```
 
 ### Installation Osu!
 
