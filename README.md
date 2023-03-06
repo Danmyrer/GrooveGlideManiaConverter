@@ -12,11 +12,11 @@ Der ManiaConverter ist ein Tool, um Beatmaps im `.osz`-Format für das Spiel Gro
 
 - Das Spiel [GrooveGlide](https://github.com/Danmyrer/GrooveGlide)
 
-- Das Spiel Osu! (Installationsanweisung folgt)
+- Das Spiel [Osu!(lazer)](https://lazer.ppy.sh/home/download) 
 
-- ZIP (zum Entpacken von `.zip`-Dateien)
+- Zip (zum Entpacken von `.zip`-Dateien)
 
-- FFMPEG (neuste Version, muss in `$PATH` registriert sein)
+- [FFmpeg](https://ffmpeg.org/download.html) (neuste Version, muss in `$PATH` registriert sein)
 
 ## Einrichtung und Nutzung
 
@@ -29,14 +29,6 @@ Alteranativ kann das Projekt auch selbst kompiliert werden:
 ```shell
 git clone https://github.com/Danmyrer/GrooveGlideManiaConverter.git
 ```
-
-### Installation Osu!
-
-```shell
-flatpak install sh.ppy.osu
-```
-
-Osu! kann auch ohne Flatpak installiert werden. Informationen hierzu finden Sie auf der [offiziellen Website](https://osu.ppy.sh/home) 
 
 ### Exportieren einer Beatmap
 
