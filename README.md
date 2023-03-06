@@ -12,7 +12,7 @@ Der ManiaConverter ist ein Tool, um Beatmaps im `.osz`-Format für das Spiel Gro
 
 - Das Spiel [GrooveGlide](https://github.com/Danmyrer/GrooveGlide)
 
-- Das Spiel Osu (Installationsanweisung folgt)
+- Das Spiel Osu! (Installationsanweisung folgt)
 
 - ZIP (zum Entpacken von `.zip`-Dateien)
 
